@@ -2,15 +2,12 @@ class Solution{
 public:    
     int singleNumber(vector<int>& nums){
         int n = nums.size();
-        unordered_map<int, int> mpp;
-
-        for(int i = 0; i < n; i++) 
-            mpp[nums[i]]++;
-
-        for(auto it : mpp) {
-            if(it.second == 1)
-                return it.first;
+        int bucket1 = 0, bucket2 = 0;
+        
+        for(int i=0; i < n; i++) {
+            bucket1 = (bucket1 ^ nums[i]) & ~bucket2;
+            bucket2 = (bucket2 ^ nums[i]) & ~bucket1;
         }
-        return -1;
+        return bucket1;
     }
 };
