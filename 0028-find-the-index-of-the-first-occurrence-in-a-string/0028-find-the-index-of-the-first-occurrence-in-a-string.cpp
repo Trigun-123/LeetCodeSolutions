@@ -1,45 +1,37 @@
 class Solution {
 private:
-    vector<int> computeZarray(string s) {
-        int n = s.size();
-        vector<int> Z(n, 0);
-        int left = 0, right = 0;
-
-        for(int i = 1; i < n; i++) {
-            if(i > right) {
-                while(i + Z[i] < n && s[Z[i]] == s[i + Z[i]])
-                    Z[i]++;
-                left = i;
-                right = i + Z[i] - 1;
-            }
-            else {
-                int k = i - left;
-                if(Z[k] < right - i + 1)
-                    Z[i] = Z[k];
-                else {
-                    Z[i] = right - i + 1;
-                    while(i + Z[i] < n && s[Z[i]] == s[i + Z[i]])
-                        Z[i]++;
-                    left = i;
-                    right = i + Z[i] - 1;
+    vector<int> computeLPS(string s) {
+        int n = s.size(); 
+        vector<int> LPS(n, 0);
+        int i = 1, j = 0;
+        
+        while(i < n) {
+            if(s[i] == s[j]) {
+                LPS[i] = j + 1;
+                i++; j++;
+            } else {
+                if(j != 0) {
+                    j = LPS[j - 1];
+                } else {
+                    LPS[i] = 0;
+                    i++;
                 }
             }
         }
-        return Z;
+        return LPS;
     }
-
+    
 public:
     int strStr(string haystack, string needle) {
-        if(needle.empty())
-            return 0;
+        if(needle.empty()) return 0;
 
-        string combined = needle + "$" + haystack;
-        vector<int> Z = computeZarray(combined);
+        string combined = needle + '$' + haystack;
+        vector<int> LPS = computeLPS(combined);
         int m = needle.size();
 
-        for(int i = m + 1; i < Z.size(); i++) {
-            if(Z[i] == m)
-                return i - (m + 1);  
+        for(int i = m + 1; i < combined.size(); i++) {
+            if(LPS[i] == m)
+                return i - 2 * m;
         }
         return -1;
     }
