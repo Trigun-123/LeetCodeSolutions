@@ -10,20 +10,32 @@
  * };
  */
 class Solution {
-private:
-    void recursiveInorder(TreeNode* root, vector<int> &arr) {
-        if(root == nullptr)
-            return;
-    
-        recursiveInorder(root->left, arr);
-        arr.push_back(root->val);
-        recursiveInorder(root->right, arr);
-    }
-
 public:
-	vector<int> inorderTraversal(TreeNode* root){
-	    vector<int> arr;
-        recursiveInorder(root, arr);
-        return arr;
-	}
+    vector<int> inorderTraversal(TreeNode* root) {
+    	vector<int> inorder;
+        TreeNode* cur = root;
+
+        while(cur != NULL) {
+            if(cur->left == NULL) {
+                inorder.push_back(cur->val);
+                cur = cur->right;
+            }
+            else {
+                TreeNode* prev = cur->left;
+                while(prev->right && prev->right != cur)
+                    prev = prev->right;
+
+                if(prev->right == NULL) {
+                    prev->right = cur;
+                    cur = cur->left;
+                }
+                else {
+                    prev->right = NULL;
+                    inorder.push_back(cur->val);
+                    cur = cur->right;
+                }
+            }
+        }
+        return inorder;
+    }
 };
