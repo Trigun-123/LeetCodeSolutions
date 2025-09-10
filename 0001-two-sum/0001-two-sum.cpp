@@ -5,10 +5,11 @@ public:
 
         for(int i = 0; i <= n-2; i++) {
             for(int j = i+1; j <= n-1; j++) {
-                if(nums[i] + nums[j] == target)
+                if(nums[i] + nums[j] == target) {
                     return {i, j};
+                }
             }
         }
-        return { };
+        return {};
     }
 };
