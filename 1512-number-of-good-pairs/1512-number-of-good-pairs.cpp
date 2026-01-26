@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        int result = 0;
+        unordered_map<int, int> mpp;
+
+        for(auto it : nums) {
+            result += mpp[it]++;
+        }
+
+        return result;
+    }
+};
