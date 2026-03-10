@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
