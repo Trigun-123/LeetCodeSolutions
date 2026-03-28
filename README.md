@@ -50,6 +50,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Brainteaser
