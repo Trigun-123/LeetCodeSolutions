@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -50,6 +51,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -85,6 +87,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -131,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
