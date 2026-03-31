@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -156,6 +157,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
