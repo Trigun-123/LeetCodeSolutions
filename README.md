@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -196,4 +198,8 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
