@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -32,12 +33,14 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -124,6 +127,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
