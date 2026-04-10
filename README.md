@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
+| [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -45,6 +46,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -84,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
