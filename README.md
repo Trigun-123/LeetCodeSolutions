@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3643-flip-square-submatrix-vertically](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
