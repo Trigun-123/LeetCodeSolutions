@@ -151,6 +151,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
