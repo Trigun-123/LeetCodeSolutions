@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0238-product-of-array-except-self](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -126,6 +127,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -167,6 +169,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -253,4 +256,12 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
