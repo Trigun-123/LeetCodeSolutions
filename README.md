@@ -237,6 +237,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
