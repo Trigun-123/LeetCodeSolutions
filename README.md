@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
@@ -97,6 +98,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Recursion
@@ -300,4 +302,8 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
