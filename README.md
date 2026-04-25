@@ -182,6 +182,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -252,6 +253,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -264,6 +266,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -277,6 +280,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -286,6 +290,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
