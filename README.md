@@ -184,6 +184,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Bit Manipulation
@@ -251,6 +252,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
@@ -258,6 +260,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -273,6 +276,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -289,6 +293,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
