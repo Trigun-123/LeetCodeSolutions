@@ -193,6 +193,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0086-partition-list/) | Medium |
@@ -250,6 +251,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0086-partition-list/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
