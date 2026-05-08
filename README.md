@@ -211,6 +211,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -274,6 +275,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
