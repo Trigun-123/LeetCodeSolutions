@@ -44,6 +44,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -137,6 +138,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2075-decode-the-slanted-ciphertext](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
