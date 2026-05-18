@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -176,6 +177,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2615-sum-of-distances](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -363,6 +365,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
